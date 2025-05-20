@@ -24,7 +24,7 @@
 - ⚛️ [React](https://reactjs.org/)
 - 🔗 [Axios](https://axios-http.com/)
 - ☁️ [OpenWeatherMap API](https://api.openweathermap.org)
-- 💅 CSS o Tailwind (ajusta esto si usas algún framework de estilos)
+- 💅 CSS
 
 ## 📦 Instalación
 
@@ -34,3 +34,4 @@
 git clone https://github.com/fabian-4vila/entre2-gen29.git
 cd entre2-gen29
 ```
+
