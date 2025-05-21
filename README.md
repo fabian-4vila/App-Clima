@@ -56,13 +56,23 @@ Abre en tu navegador: http://localhost:5173
 ## 🧾 Estructura del proyecto
 ```plaintext
 
-/src
-├── components/       # Componentes de UI
-├── App.jsx           # Componente principal
-├── main.jsx          # Punto de entrada de la app
-└── styles.css        # Estilos globales (si aplica)
+/App-Clima
+│├── src/
+│    ├── components/
+│        └── WeatherCard.jsx
+│    ├── App.css        
+│    ├── App.jsx
+│    ├── index.css                 
+│    ├── main.jsx
+│├──.eslintrc.cjs
+│├──.gitignore
+│├──README.md
+│├──index.html
+│├──package-lock.json
+│├──package.json
+│└──vite.config.js  
+```
 💡 Mejora futura (opcional)
 
 Cambiar a tema claro/oscuro.
-```
 
