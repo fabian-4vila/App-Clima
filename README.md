@@ -23,7 +23,9 @@
 - ⚛️ [React](https://reactjs.org/)
 - 🔗 [Axios](https://axios-http.com/)
 - ☁️ [OpenWeatherMap API](https://api.openweathermap.org)
+- 🖼️ [Pixabay API](https://pixabay.com/api/)
 - 💅 CSS
+- ⚡ [Vite](https://vitejs.dev/)
 
 ## 📦 Instalación
 
@@ -41,10 +43,16 @@ npm install
 Crea un archivo .env en la raíz del proyecto y coloca tu API Key de OpenWeatherMap:
 
 ```env
-
-VITE_API_KEY=tu_clave_de_api_aquí
+VITE_API_KEY=tu_clave_de_openweathermap_aquí
+VITE_API_KEY2=tu_clave_de_pixabay_aquí
 ```
-Puedes obtener una API key gratuita desde: [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys)
+- Puedes obtener una API Key gratuita de OpenWeatherMap en:
+👉 [OpenWeatherMap API](https://home.openweathermap.org/api_keys)
+
+- Y una API Key de Pixabay en:
+👉 [Pixabay API](https://pixabay.com/api/docs/)
+
+
 
 Ejecuta la aplicación en modo desarrollo:
 
