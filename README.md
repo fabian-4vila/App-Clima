@@ -1,4 +1,3 @@
-
 # 🌦️ WeatherApp 
 
 **WeatherApp** es una aplicación web desarrollada con **React** y **Axios**, que permite consultar el clima actual en cualquier ciudad del mundo gracias a la API de [OpenWeatherMap](https://api.openweathermap.org).
@@ -31,8 +30,8 @@
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/fabian-4vila/entre2-gen29.git
-cd entre2-gen29
+git clone https://github.com/fabian-4vila/App-Clima.git
+cd App-Clima
 ```
 Instala las dependencias:
 
