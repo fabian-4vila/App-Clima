@@ -1,5 +1,5 @@
 
-# 🌦️ WeatherApp - entre2-gen29
+# 🌦️ WeatherApp 
 
 **WeatherApp** es una aplicación web desarrollada con **React** y **Axios**, que permite consultar el clima actual en cualquier ciudad del mundo gracias a la API de [OpenWeatherMap](https://api.openweathermap.org).
 
